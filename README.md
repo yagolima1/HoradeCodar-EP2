@@ -1,5 +1,6 @@
 # HoradeCodar-EP2
 Dedico este repositório ao segundo episódio da saga "Hora de Codar!"
+# OBS: Em breve pretendo fazer um remake deste episódio.
 
 ## Exercícios
 
