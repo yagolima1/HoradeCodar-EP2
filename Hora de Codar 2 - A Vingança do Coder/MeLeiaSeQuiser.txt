@@ -1,8 +1,0 @@
-olá você fiel leitor(a) que esta lendo mais esse arquivo, provavelmente se você está aqui, ou você leu o primeiro arquivo que tem no primeiro episódio ou apenas abriu para conferir se tinha algo interessante.
-
-agora são exatamente 00:02 do dia 30 de agosto, onde estou criando o repositório dessa tarefa, que em breve será atualizado com o restnate dos exercícios.
-
-sobre esse episódio, acho que uma frase que faz sentido é "a união faz a força". na aula de ontem pude aprender algumas coisas como o if, else, switch e o ParseINT, essenciais para esssa tarefa e futuras também. fui fazendo alguns exercícios em sala de aula, consegui fazer do 1° até o 4° e fiz o 5° agora pouco. fico feliz pois também além de aprender, pude ajudar os meus amigos, foi uma troca muito bacana, esse curso é fantástico!!
-
-pós tarefa: hoje é dia 31 de Agosto, agora são exatamente 13:15. Eu terminei esse capítulo hoje, alguns minutos atrás, mas antes de atualizar aqui, fui fazer algumas atualizações no 1° Episódio. esse episódio foi bem mais desafiador e exigiu muita reflexão em algumas partes, porém através do If, Else e de algumas arrays, pude compreender e seguir em frente. vejamos como será o 3° Episódio...
-OBS: mas não hoje hahahaha, preciso descansar, hoje é aniversário da minha mãe e eu estou com muitas noites de sono atrasado.
