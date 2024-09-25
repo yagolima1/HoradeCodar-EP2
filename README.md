@@ -3,6 +3,8 @@ Este repositório é dedicado ao segundo episódio da tarefa "Hora de Codar!". N
 
 # OBS: Em breve pretendo fazer um remake deste episódio.
 
+---
+
 ## Exercícios
 
 ### 1. Maior entre Dois Números
@@ -92,3 +94,5 @@ O programa lê dois valores e a operação desejada, realiza o cálculo conforme
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
+
+---
